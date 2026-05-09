@@ -34,7 +34,7 @@ Lumina is a design-first launchpad. It leverages the latest web technologies to 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/lumina.git
+   git clone https://github.com/terrykn/lumina.git
    ```
 
 2. **Install dependencies:**
