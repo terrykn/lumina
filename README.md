@@ -64,7 +64,7 @@ Lumina is designed to be configured entirely via `config/site.json`. You don't n
 If your `appIcon` won't refresh, try a **Hard Refresh** to bypass the browser cache:
 *   **Windows/Linux:** `Ctrl` + `F5` or `Ctrl` + `Shift` + `R`
 *   **macOS:** `Cmd` + `Shift` + `R`
-If the issue persists, restart the Dev Server and clear the cache by running:
+*   If the issue persists, restart the Dev Server and clear the cache by running:
 
 ### Hero & Lead Gen
 - `hero.showWaitlist`: Set to `true` to show the waitlist button.
