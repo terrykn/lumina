@@ -90,3 +90,7 @@ Social links are dynamic! Add as many as you want in `footer.socials`:
 ---
 
 Built with ❤️ by Terry Nguyen. Check out my [Portfolio](https://terrykn.github.io). Connect with me on [LinkedIn](https://linkedin.com/in/terrykn).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
