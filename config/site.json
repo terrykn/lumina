@@ -1,0 +1,146 @@
+{
+  "name": "Reminders",
+  "theme": "system",
+  "appIcon": "/icon.png",
+  "logo": {
+    "text": "Reminders"
+  },
+  "hero": {
+    "headline": "Don't forget. Use Reminders",
+    "subheadline": "Track life's to-dos, from grocery lists to work projects. With iCloud, your tasks stay in sync across all your devices.",
+    "cta": "Download",
+    "showWaitlist": false,
+    "showApple": true,
+    "showAndroid": true,
+    "appleLink": "https://apps.apple.com/us/app/reminders/id1108187841",
+    "androidLink": "https://play.google.com",
+    "showCount": "users",
+    "waitlistCount": 2400,
+    "userCount": 5000000,
+    "userCountLabel": "users",
+    "primaryScreenshot": "/screenshots/main-screen.png",
+    "secondaryScreenshot": "/screenshots/secondary-screen.png",
+    "tertiaryScreenshot": "/screenshots/tertiary-screen.png"
+  },
+  "pricing": {
+    "title": "Plans",
+    "subtitle": "Choose the plan that's right for you.",
+    "tiers": [
+      {
+        "name": "Personal",
+        "price": "$0",
+        "description": "Perfect for keeping track of your daily life.",
+        "features": ["Smart Lists", "iCloud Sync", "Siri Integration"],
+        "cta": "Get Started",
+        "highlighted": false
+      },
+      {
+        "name": "Pro",
+        "price": "$9",
+        "description": "Enhanced features for power users.",
+        "features": ["Custom Templates", "Advanced Smart Lists", "Location Triggers", "Priority Support"],
+        "cta": "Go Pro",
+        "highlighted": true
+      },
+      {
+        "name": "Family",
+        "price": "$15",
+        "description": "Collaborate with your entire household.",
+        "features": ["Shared Lists", "Task Assignment", "Family Sharing", "Up to 6 users"],
+        "cta": "Start Trial",
+        "highlighted": false
+      }
+    ]
+  },
+  "features": {
+    "title": "Built for productivity",
+    "items": [
+      {
+        "title": "Smart Organization",
+        "description": "Smart Lists automatically group your to-dos. Use Apple Intelligence to auto-categorize lists into sections and column views.",
+        "icon": "ListTodo"
+      },
+      {
+        "title": "Powerful Intelligence",
+        "description": "Natural language support lets you type phrases like 'Jog every other morning' to create recurring reminders instantly.",
+        "icon": "Brain"
+      },
+      {
+        "title": "Contextual Triggers",
+        "description": "Set reminders for specific locations like 'when I arrive at home' or even 'the next time I chat with someone' in Messages.",
+        "icon": "MapPin"
+      },
+      {
+        "title": "Seamless Collaboration",
+        "description": "Share lists and assign tasks to others. Everyone with access can add, edit, or complete reminders in real-time.",
+        "icon": "Users"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Experience it yourself",
+    "subtitle": "Be reminded when and how you want",
+    "screenshots": [
+      { "url": "/screenshots/screen-1.png", "label": "Home" },
+      { "url": "/screenshots/screen-2.png", "label": "Smart Widgets" },
+      { "url": "/screenshots/screen-3.png", "label": "Grocery Lists" },
+      { "url": "/screenshots/screen-4.png", "label": "Shared Tasks" },
+      { "url": "/screenshots/screen-5.png", "label": "Lists" }
+    ]
+  },
+  "howItWorks": {
+    "title": "Fast and easy to use",
+    "steps": [
+      { "label": "Smart Lists", "description": "Quickly add tasks and reminders to your lists." },
+      { "label": "Stay Notified", "description": "Set reminders and stay on track." },
+      { "label": "Collaborate", "description": "Share and collaborate on a list with others." }
+    ]
+  },
+  "waitlist": {
+    "anchor": "waitlist",
+    "title": "Be first in line",
+    "subtitle": "Join millions of users staying organized with Reminders.",
+    "iframeUrl": "https://a1a7a1f5.sibforms.com/serve/MUIFAEzzQF3-xB_Ixx4VzU7mQ-YUJjK4RT1HdXDi8Epvc1WSqKIaRtVHeGeUUIFQ9Rqnfm0HmT4ptPZSYT8iCvM1qI16kAzUS4KDZQyuMt7-VcrK4iZAi0zPF7zExPjvT6BY7rov-k5yZxX6Gt6geGKykIiOqkiJWNBwHZ15BhYvFHwJw5rmqseKs6kNegEGoHIi-V4rRASwkfGkJQ==",
+    "successMessage": "You're on the list! Check your email soon.",
+    "disclaimer": "No spam. Unsubscribe anytime."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "Does it sync across all my devices?",
+        "answer": "Yes, with iCloud, all your reminders stay in sync across iPhone, iPad, Mac, Apple Watch, and Apple Vision Pro automatically."
+      },
+      {
+        "question": "Can I use Siri to create reminders?",
+        "answer": "Absolutely. You can use Siri to create reminders with your voice, or use natural language typing within the app."
+      },
+      {
+        "question": "Can I collaborate with others?",
+        "answer": "Yes, you can share lists with others and assign specific reminders to people you're collaborating with."
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "The easiest way to stay organized.",
+    "links": [
+      { "label": "Privacy Policy", "href": "/privacy" },
+      { "label": "Terms of Service", "href": "/terms" }
+    ],
+    "socials": [
+      {
+        "icon": "FaTwitter",
+        "link": "https://twitter.com"
+      },
+      {
+        "icon": "FaGithub",
+        "link": "https://github.com"
+      },
+      {
+        "icon": "FaYoutube",
+        "link": "https://youtube.com"
+      }
+    ],
+    "copyright": "© 2026 Reminders Inc. All rights reserved."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "magic-ui": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@magicuidesign/mcp@latest"
+      ]
+    }
+  }
+}
