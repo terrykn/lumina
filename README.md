@@ -61,12 +61,9 @@ Lumina is designed to be configured entirely via `config/site.json`. You don't n
 - `theme`: Set the default theme: `"dark"`, `"light"`, or `"system"`.
 - `appIcon`: Path to your app icon (e.g., `"/icon.png"`).
 
-#### Hard Refresh
 If your `appIcon` won't refresh, try a **Hard Refresh** to bypass the browser cache:
 *   **Windows/Linux:** `Ctrl` + `F5` or `Ctrl` + `Shift` + `R`
 *   **macOS:** `Cmd` + `Shift` + `R`
-
-#### Clear Next.js Cache
 If the issue persists, restart the Dev Server and clear the cache by running:
 
 ### Hero & Lead Gen
