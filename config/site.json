@@ -52,31 +52,6 @@
       }
     ]
   },
-  "features": {
-    "title": "Built for productivity",
-    "items": [
-      {
-        "title": "Smart Organization",
-        "description": "Smart Lists automatically group your to-dos. Use Apple Intelligence to auto-categorize lists into sections and column views.",
-        "icon": "ListTodo"
-      },
-      {
-        "title": "Powerful Intelligence",
-        "description": "Natural language support lets you type phrases like 'Jog every other morning' to create recurring reminders instantly.",
-        "icon": "Brain"
-      },
-      {
-        "title": "Contextual Triggers",
-        "description": "Set reminders for specific locations like 'when I arrive at home' or even 'the next time I chat with someone' in Messages.",
-        "icon": "MapPin"
-      },
-      {
-        "title": "Seamless Collaboration",
-        "description": "Share lists and assign tasks to others. Everyone with access can add, edit, or complete reminders in real-time.",
-        "icon": "Users"
-      }
-    ]
-  },
   "gallery": {
     "title": "Experience it yourself",
     "subtitle": "Be reminded when and how you want",
