@@ -55,11 +55,11 @@ export function AppGallery() {
                   key={idx}
                   className={cn(
                     "absolute transition-all duration-700 ease-in-out transform w-64 md:w-56",
-                    pos === 0 && "opacity-100 translate-x-0 scale-100 z-30 blur-0",
-                    pos === 1 && "opacity-70 translate-x-32 md:translate-x-48 scale-90 z-20",
-                    pos === -1 && "opacity-70 -translate-x-32 md:-translate-x-48 scale-90 z-20",
-                    pos === 2 && "opacity-30 translate-x-56 md:translate-x-[20rem] scale-75 z-10",
-                    pos === -2 && "opacity-30 -translate-x-56 md:-translate-x-[20rem] scale-75 z-10",
+                    pos === 0 && "opacity-100 translate-x-0 scale-100 z-30 scale-90 blur-0",
+                    pos === 1 && "opacity-70 translate-x-32 md:translate-x-40 scale-85 z-20",
+                    pos === -1 && "opacity-70 -translate-x-32 md:-translate-x-40 scale-85 z-20",
+                    pos === 2 && "opacity-30 translate-x-56 md:translate-x-[18rem] scale-75 z-10",
+                    pos === -2 && "opacity-30 -translate-x-56 md:-translate-x-[18rem] scale-75 z-10",
                     !isVisible && "opacity-0 scale-50 pointer-events-none"
                   )}
                 >
